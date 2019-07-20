@@ -1,0 +1,6 @@
+#3581B8 Blue
+#F3F8F2	White
+#EE6C4D Orange
+#fdce07 Yellow
+#231f20 Black
+

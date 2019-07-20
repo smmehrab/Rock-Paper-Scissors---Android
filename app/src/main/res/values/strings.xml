@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="instruction_text">Instructions</string>
+    <string name="play_text">Play</string>
+
+    <string name="controls_text">Control Details</string>
+    <string name="controls_details_text">
+        TAP: To CHANGE MOVE.
+
+        DOUBLE TAP: To START NEW ROUND.
+
+        SWIPE UP: To MAKE MOVE.
+
+        SWIPE DOWN: To RESTART MATCH.
+
+        SWIPE RIGHT TWICE: To EXIT APP.
+    </string>
+
+    <string name="rock_text">Rock</string>
+    <string name="rock_details_text">
+        If you play rock, you will be able to beat another player who has chosen scissors ("rock crushes scissors").
+        But you will lose to one who has played paper ("paper covers rock").
+    </string>
+
+    <string name="paper_text">Paper</string>
+    <string name="paper_details_text">
+        If you play paper, you will be able to beat another player who has chosen rock ("paper covers rock").
+        But you will lose to one who has played scissors ("scissors cuts paper").
+    </string>
+
+    <string name="scissors_text">Scissors</string>
+    <string name="scissors_details_text">
+        If you play scissors, you will be able to beat another player who has chosen paper ("scissors cuts paper").
+        But you will lose to one who has played rock ("rock crushes scissors").
+    </string>
+
+    <string name="score_text"></string>
+    <string name="swipe_for_more_text">Swipe for More</string>
+
+    <string name="player1_text">You</string>
+    <string name="player2_text">Andy</string>
+
+
+</resources>
